@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(219, 219, 219);
+}
+
+.my-div {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #333;
+    background-color: #bdb5b5;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#div1 {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+#div2 {
+    position: absolute;
+    right: 70px;
+    top: 50px;
+}
+
+#div3 {
+    float: left;
+    background-color: #ccc;
+    margin-right: 10px;
+    width: auto;
+}
+
+img {
+    width: 25%;
+    height: auto;
+}
+
+.link{
+    font-style: normal;
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+
+.header{
+    height: 100px;
+}
